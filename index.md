@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
---- # Welcome to My Portfolio Hello! My name is cody martin
+Welcome to My Portfolio Hello! My name is cody martin
 ## Projects
 - Project 1: Description
 - Project 2: Description
