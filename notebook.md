@@ -2,6 +2,7 @@ Table of Contents
 - [Day 1](#day-1)
   - [Notes](#notes)
   - [Practice](#practice)
+  -  [Code Definitions](#code_definitions)
 - [Day 2](#day-2)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
