@@ -46,11 +46,11 @@ Table of Contents
 |------|------------|--------------------------|-------------------|-------------|
 | variable | A named container used to store a value that may change. | `var x = 5;` |goals in soccer  |  |
 | constatnt | A fixed value that cannot change once set. | `const PI = 3.14;` |username  |  |
-| data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|      | Whole number values. | `int age = 16;` |  |  |
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
+| data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |levels  |  |
+| strings | A sequence of characters used to represent words or text. | `"Hello World"` |texts  |  |
+| integer | Whole number values. | `int age = 16;` |every day  |  |
+| double | Number values with decimals. | `double age = 16.2;` |smooth movement  |  |
+| boolean | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
 |      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
 |      | A special value that means “nothing.” | `String? name = null;` |  |  |
 |      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
