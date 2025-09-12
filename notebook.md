@@ -57,9 +57,9 @@ Table of Contents
 | parameter | The information passed into a function to change how it works. | `greet(String name)` |run or walk  |  |
 | return | The result a function gives back. | `return total;` |recepte  |  |
 | scope | Where a variable or function can be used. | (No set syntax — concept-based) |starbucks gift card  |  |
-|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
+| class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |class  |  |
+| object | A specific version of a class. | `Dog myDog = Dog();` |students  |  |
+|  | A variable that belongs to a class/object. | `String name;` |  |  |
 |      | A function that belongs to a class. | `void bark() {}` |  |  |
 |      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
 |      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
