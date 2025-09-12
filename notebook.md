@@ -2,7 +2,7 @@ Table of Contents
 - [Flutter notes](#Flutter-notes)
   - [Notes](#notes)
   - [Practice](#practice)
-  -  [Code Definitions](#code_definitions)
+  -  [Code Definitions](#code-definitions)
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Flutter notes
@@ -41,11 +41,13 @@ Table of Contents
 - How do you align something to the left or right?
 - What widget adds space around content?
 
+## Code Definitions
+
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
 | variable | A named container used to store a value that may change. | `var x = 5;` |goals in soccer  |  |
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+| constatnt | A fixed value that cannot change once set. | `const PI = 3.14;` |username  |  |
+| data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
 |      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
 |      | Whole number values. | `int age = 16;` |  |  |
 |      | Number values with decimals. | `double age = 16.2;` |  |  |
