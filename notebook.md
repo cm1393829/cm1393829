@@ -17,22 +17,21 @@ Table of Contents
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Widget           | Basic building block of a flutter app. Everything is a widget. | text, image, container, column
+| MaterialApp      | The root of the app. Sets up routes and themes. | Found in main.dart
+| Scaffold         | Provides basic visual layout -- like a header, body, floating button | Each screen uses it
+| StatelessWidget  | A widget that doesnt change | most of the screen files
+| StatefulWidget   | A widget that can change over time | Used in MyHomePage()
+| Navigator        | Manage screen transitions | Predifined keyboard shortcuts
+| AppBar           | Top navigation bar | 
+| Column           | Vertical layout | organize vertically
+| Row              | Horizontal layout | organize horizontally
+| Container        | wraps content with padding, margin, or color | lets you style
+| Text             | Displays text | labels, titals, paragraphs
+| Image.network    | Displays images from a URL | load an image from link
+| Padding          |                    |                     |
+| Center           |                        |                     |
 
-| Padding    |                    |                     |
-
-| Center |                        |                     |
 
 ---
 
