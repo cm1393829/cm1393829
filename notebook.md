@@ -1,9 +1,11 @@
-Table of Contents
-- [Flutter notes](#Flutter-notes)
-  - [Notes](#notes)
-  - [Practice](#practice)
-  -  [Code Definitions](#code-definitions)
-[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+## Table of Contents
+- [Flutter notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms and Definitions](#key-terms-and-definitions)
+  - [Layout and Design Widgets](#layout-and-design-widgets)
+  - [Definitions with Structures](#definitions-with-structures)
+- [Code Definitions](#code-definitions)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Flutter notes
 
@@ -59,12 +61,12 @@ Table of Contents
 | scope | Where a variable or function can be used. | (No set syntax — concept-based) |starbucks gift card  |  |
 | class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |class  |  |
 | object | A specific version of a class. | `Dog myDog = Dog();` |students  |  |
-|  | A variable that belongs to a class/object. | `String name;` |  |  |
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+| property | A variable that belongs to a class/object. | `String name;` |plane seats  |  |
+| method | A function that belongs to a class. | `void bark() {}` |notes  |  |
+| constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+| abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+| override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+| void | A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
